@@ -1,7 +1,7 @@
 ### Hull HW 1 - The Challenge
 
 1. Show, based on the flux with depth, that the model is steady state. Repeat this for a homogeneous and for a heterogeneous column.
-  * by steady state, we need evidence that the discharge is unchanging with depth over time
+  * By steady state, we mean that the discharge is unchanging within the model domain over time. By extension, the flux (q) at every point `z` in our 1-D model domain must also be the same. We can see that in both the heterogenous and homogenous models
 
 2. Show that the steady state flux agrees with the direct calculation based on the harmonic mean average K. Write the equation defining the direct calculation of the flux.
   * why harmonic mean? assume unit gradient?
